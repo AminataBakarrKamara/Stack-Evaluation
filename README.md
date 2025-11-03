@@ -1,5 +1,3 @@
-# Stack-Evaluation
-Stack Evaluation
 # Stack-Based Expression Evaluator
 
 ## Overview
@@ -40,3 +38,6 @@ This project implements a **stack-based mathematical expression evaluator** in P
 -10
 -----
 ```
+
+## Author
+Developed by **Aminata Bakarr Kamara**
